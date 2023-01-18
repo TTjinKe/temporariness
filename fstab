@@ -1,0 +1,1 @@
+UUID=d0fb4cfc-1750-414e-9659-62b3f71dd06c     /         btrfs           subvol=0,defaults,noatime,space_cache,space_cache=v2,autodefrag,discard=async,ssd,compress=zstd:1 0 1
